@@ -9,7 +9,7 @@
             --color-btn-stop: #7f8c8d;
             --color-btn-reset: #d35400;
         }
-        body {
+       body {
     margin: 0;
     min-height: 100vh;
 
@@ -18,10 +18,11 @@
     justify-content: center;
     align-items: center;
 
+    background-color: #dce9ff;
     background-image: url("./bg0902.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto 100vh;
 
     font-family: Arial, sans-serif;
     overflow-x: hidden;
