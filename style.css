@@ -5,9 +5,9 @@
             --color-card-bg: #F9F7F0;
             --color-border: #9C1F15;
             --color-text-time: #CC3300;
-            --color-btn-start: #e74c3c;
-            --color-btn-stop: #7f8c8d;
-            --color-btn-reset: #d35400;
+            --color-btn-start: #3400d6;
+            --color-btn-stop: #3400d6;
+            --color-btn-reset: #3400d6;
         }
        body {
     margin: 0;
